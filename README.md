@@ -8,3 +8,6 @@ At the end of the this hands-on training, at the end of this hands on you will b
 - Create Lambda Function
 - Trigger the Lambda Function  with S3 Bucket
 - Create a lambda function, that generates a random value and trigger it with API Gateway.
+
+
+###Lambda End API gateway are most common architecture to provide from public to backend connection###
